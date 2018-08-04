@@ -12,6 +12,10 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
+	background-color:#666;
+	background-image:url(../img/desert-dreams.svg);
+	background-size: 500px 500px;
+	text-align:center;
 }
 
 /*
@@ -97,7 +101,9 @@ textarea {
 
 
 
-
+.text-overlay{
+color:#efefef;
+}
 
 
 
